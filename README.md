@@ -1,0 +1,49 @@
+# Eksamen Webutvikling
+
+<p align="center">
+    ![Java](https://img.shields.io/badge/Java-orange?logo=java)
+    ![Web Development](https://img.shields.io/badge/Web%20Development-blue)
+</p>
+
+### Sportsworld | Kristiania
+
+**Emne:** DS3103 Webutvikling  
+**Semester:** H-2025  
+**Foreleser:** [Rolando A. R. Gonzalez](https://www.linkedin.com/in/rolando-gonzalez-3a7178279/)
+
+**Gruppemedlemmer:**
+
+| Navn                   | GitHub                                                   |
+| ---------------------- | -------------------------------------------------------- |
+| Marius Kristensen      | [@kremflote](https://github.com/kremflote)               |
+| Marius André Ellingsen | [@mariusaellingsen](https://github.com/mariusaellingsen) |
+
+---
+
+## Karakter
+
+A
+
+---
+
+## Oversikt
+
+Dette repositoriet inneholder vår gruppeeksamen for Webutvikling. **Sportsworld** er et prosjekt som består av en enkel frontend- og backend-løsning, hvor brukeren kan utføre CRUD-operasjoner gjennom et brukervennlig grensesnitt.
+
+**Frontend:** React (Vite + TypeScript + TailwindCSS)  
+**Backend:** ASP.NET Core Web API i C# (.NET 9)  
+**Design reference:** [Figma sketch](https://www.figma.com/design/3U9P778MbUq0a75wXf0DXt/CV-Webpage?node-id=0-1&p=f&t=vHjEJvB9XsVwkHiu-0)
+
+---
+
+## Architecture
+
+- REST API endpoints via controllers
+- Entity Framework Core for database access
+- SQLite as the database
+- OpenAPI (Swagger) for API documentation
+- CORS enabled (currently allows all origins)
+
+---
+
+_PGDS3103 Avsluttende eksamen — Kristiania University College, 2026_
