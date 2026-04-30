@@ -1,8 +1,11 @@
 # Eksamen Webutvikling
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-orange?logo=java" />
   <img src="https://img.shields.io/badge/Web%20Development-blue" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
 </p>
 
 ### Sportsworld | Kristiania
