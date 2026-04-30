@@ -1,8 +1,8 @@
 # Eksamen Webutvikling
 
 <p align="center">
-    ![Java](https://img.shields.io/badge/Java-orange?logo=java)
-    ![Web Development](https://img.shields.io/badge/Web%20Development-blue)
+  <img src="https://img.shields.io/badge/Java-orange?logo=java" />
+  <img src="https://img.shields.io/badge/Web%20Development-blue" />
 </p>
 
 ### Sportsworld | Kristiania
@@ -22,7 +22,9 @@
 
 ## Karakter
 
-A
+<p align="center">
+  <img src="https://img.shields.io/badge/Karakter-A-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
