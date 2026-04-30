@@ -14,13 +14,13 @@
 **Semester:** H-2025  
 **Foreleser:** [Rolando A. R. Gonzalez](https://www.linkedin.com/in/rolando-gonzalez-3a7178279/)
 
+---
+
 **Gruppemedlemmer:**
 | Navn | GitHub |
 | ---------------------- | -------------------------------------------------------- |
 | Marius Kristensen | [@kremflote](https://github.com/kremflote) |
 | Marius André Ellingsen | [@mariusaellingsen](https://github.com/mariusaellingsen) |
-
-**Karakter**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Karakter-A-green?style=for-the-badge" />
