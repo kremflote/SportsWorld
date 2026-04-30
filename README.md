@@ -34,13 +34,12 @@
 
 ---
 
-## Architecture
+## Arkitektur
 
-- REST API endpoints via controllers
-- Entity Framework Core for database access
-- SQLite as the database
-- OpenAPI (Swagger) for API documentation
-- CORS enabled (currently allows all origins)
+- REST API endpoints med controllers
+- Entity Framework Core for database tilgang
+- SQLite som database
+- CORS enabled (allows all origins)
 
 ---
 
