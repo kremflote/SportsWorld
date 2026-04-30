@@ -1,6 +1,6 @@
 # Eksamen Webutvikling
 
-<p align="right">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-orange?logo=java" />
   <img src="https://img.shields.io/badge/Web%20Development-blue" />
 </p>
@@ -34,7 +34,7 @@ Dette repositoriet inneholder vår gruppeeksamen for Webutvikling. **Sportsworld
 
 **Frontend:** React (Vite + TypeScript + TailwindCSS)  
 **Backend:** ASP.NET Core Web API i C# (.NET 9)  
-**Design reference:** [Figma sketch](https://www.figma.com/design/3U9P778MbUq0a75wXf0DXt/CV-Webpage?node-id=0-1&p=f&t=vHjEJvB9XsVwkHiu-0)
+**Design reference:** [Figma sketch](https://www.figma.com/design/WHo9xnuuF9dv2A76eFpMBd/Sportsworld-Prototype?t=ubNPiNvBJXF1y2x2-1)
 
 ---
 
