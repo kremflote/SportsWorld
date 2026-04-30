@@ -1,6 +1,6 @@
 # Eksamen Webutvikling
 
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/Java-orange?logo=java" />
   <img src="https://img.shields.io/badge/Web%20Development-blue" />
 </p>
@@ -22,8 +22,8 @@
 
 ## Karakter
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Karakter-A-brightgreen?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Karakter-A-green?style=for-the-badge" />
 </p>
 
 ---
