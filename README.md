@@ -10,9 +10,7 @@
 
 ### Sportsworld | Kristiania
 
-**Emne:** DS3103 Webutvikling  
-**Semester:** H-2025  
-**Foreleser:** [Rolando A. R. Gonzalez](https://www.linkedin.com/in/rolando-gonzalez-3a7178279/)
+**Emne:** DS3103 Webutvikling **Semester:** H-2025 **Foreleser:** [Rolando A. R. Gonzalez](https://www.linkedin.com/in/rolando-gonzalez-3a7178279/)
 
 ---
 
