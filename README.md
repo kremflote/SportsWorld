@@ -26,7 +26,7 @@
 
 ## Oversikt
 
-Dette repositoriet inneholder vår gruppeeksamen for Webutvikling. **Sportsworld** er et prosjekt som består av en enkel frontend- og backend-løsning, hvor brukeren kan utføre CRUD-operasjoner gjennom et brukervennlig grensesnitt.
+**Sportsworld** er et prosjekt som består av en enkel frontend- og backend-løsning, hvor brukeren kan utføre CRUD-operasjoner gjennom et brukervennlig grensesnitt.
 
 **Frontend:** React (Vite + TypeScript + TailwindCSS)  
 **Backend:** ASP.NET Core Web API i C# (.NET 9)  
